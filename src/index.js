@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-// const App = () => {
-//   return <h1>Testing...</h1>;
-// };
+const App = () => {
+  return <h1>Testing...</h1>;
+};
 
-// ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));
